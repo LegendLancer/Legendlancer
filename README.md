@@ -23,7 +23,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I am always ready for full-time working.  
   
@@ -37,8 +37,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚡ Challenging problems always make me happy.  
 
 
-</td><td valign="top" width="50%">
-
+</td>
 <div align="center">
 </div>  
 
