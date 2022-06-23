@@ -1,4 +1,4 @@
-# Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: left;" width="10px">
+# Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" styles="float: left; width: 30px;" width="10px">
 <a target="blank" href="https://profile-counter.glitch.me/legendlancer/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
 
 ---
