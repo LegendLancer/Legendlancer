@@ -47,7 +47,7 @@
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱 What I'm boosting
-- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
+- 🛠 AWS Cloud Serivces 𒑰 Serverless
 - 🎩 DevOps
 
 `Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
